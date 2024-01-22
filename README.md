@@ -1,4 +1,5 @@
-## Ergoknife 2說明
+## Ergoknife 2說明 20240122
+![image](https://github.com/ouser555/ergoknife2/blob/main/pic/0004.jpg)
 
 特點
 
@@ -18,6 +19,8 @@
 
 * 這組鍵盤同樣有提供傾斜架的3D列印檔，有需要可以自行列印。
 
+![image](https://github.com/ouser555/ergoknife2/blob/main/pic/0005.jpg)
+![image](https://github.com/ouser555/ergoknife2/blob/main/pic/0006.jpg)
 
 
 * 功能分別是
@@ -69,7 +72,9 @@
   與電腦的連接是使用Type-C的設計，但不會附USB線，請自行準備。
 
 
-
+![image](https://github.com/ouser555/ergoknife2/blob/main/pic/0001.jpg)
+![image](https://github.com/ouser555/ergoknife2/blob/main/pic/0002.jpg)
+![image](https://github.com/ouser555/ergoknife2/blob/main/pic/0003.jpg)
 * 因為這款的記憶體較足夠所以打開了大部分的RGB燈效，因為還沒針對此功能拍影片，所以可以先參考連結中其他鍵盤的功能展示
 
   https://www.youtube.com/shorts/bci9zSVapj8  (相似度很高，音效是電腦端發出的)
@@ -118,15 +123,8 @@
   * 高特紫軸 x70
   * 普通ABS透光鍵帽104鍵
 
-* 
 
-
-
-
-
-
-
-## 20240122 基礎操作說明
+## 基礎操作說明
 
 * 預設左手為主鍵盤，建議先將左右手傳輸線接好再接上左手的USB
 
@@ -251,6 +249,8 @@
     點選進入，選Load，然後選擇剛剛下載的ergoknife2.json檔，
 
     即會秀出鍵盤配列。
+    
+    ![image](https://github.com/ouser555/ergoknife2/blob/main/pic/0008.jpg)
 
     點選最上方的Configure圖標
 
@@ -261,7 +261,7 @@
     當中有一個ergoknife2的鍵盤，點選後鍵盤就能與APP連接。
 
     
-
+    ![image](https://github.com/ouser555/ergoknife2/blob/main/pic/0007.jpg)
   * 可以看到鍵盤配列下方有兩個十字排列的按鍵，
 
     十字中間的X是沒有設定功能的，
