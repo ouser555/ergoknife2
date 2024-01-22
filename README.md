@@ -295,3 +295,5 @@
   依據它變動的項目去做修改。
 
   
+## 線路圖
+![image](https://github.com/ouser555/ergoknife2/blob/main/pic/circuit.jpg)
