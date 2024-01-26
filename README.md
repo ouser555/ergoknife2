@@ -56,6 +56,10 @@
   硬體有預留一組滾輪編碼器/旋轉編碼器的接口，使用者也可以自行飛線改裝。
 
 
+mp4 file demo 1: https://imgur.com/a/GpzI1rJ
+
+[![IMAGE ALT TEXT HERE](https://i.imgur.com/vKb2F1B.png))](https://imgur.com/a/GpzI1rJ)
+
 
 * 預設套件為高特紫軸，此為低價入門軸，Youtube上都可以搜尋到相關的使用心得。
   
