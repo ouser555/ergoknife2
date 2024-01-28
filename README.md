@@ -58,7 +58,7 @@
 
 mp4 file demo 1: https://imgur.com/a/ag3FOmy
 
-[![IMAGE ALT TEXT HERE](https://i.imgur.com/vKb2F1B.png))](https://imgur.com/a/GpzI1rJ)
+[![IMAGE ALT TEXT HERE](https://i.imgur.com/vKb2F1B.png))](https://imgur.com/a/ag3FOmy)
 
 
 * 預設套件為高特紫軸，此為低價入門軸，Youtube上都可以搜尋到相關的使用心得。
