@@ -27,6 +27,16 @@
           "shortName": "ADJUST"
         },
         {
+          "name": "EXTRA01",
+          "title": "EXTRA01 key",
+          "shortName": "EXT01"
+        },
+        {
+          "name": "EXTRA02",
+          "title": "EXTRA02 key",
+          "shortName": "EXT02"
+        },
+        {
           "name": "MJMODE",
           "title": "MASTER JOYS MODE",
           "shortName": "MJMOD"
