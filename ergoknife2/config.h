@@ -17,6 +17,13 @@
 
 #pragma once
 
+#define MK_KINETIC_SPEED
+#define MK_MOMENTARY_ACCEL
+//#define MK_COMBINED
+#define MOUSEKEY_MAX_SPEED      6
+#define MOUSEKEY_TIME_TO_MAX    64
+
+
 #define DYNAMIC_KEYMAP_LAYER_COUNT 6
 
 #define WS2812_PIO_USE_PIO1
