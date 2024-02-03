@@ -1,7 +1,7 @@
 # ergoknife2
 
-![ergoknife2](https://i.imgur.com/JwhiE9ll.png)
-![ergoknife2PCB](https://i.imgur.com/6NjZ8Cql.jpg)
+
+![image](https://github.com/ouser555/ergoknife2/blob/main/pic/0004.jpg)
 
 *A pre-built, split mechanical keyboard with 70 keys based on the RP2040 processor*
 
